@@ -39,3 +39,7 @@ scripts/
 .prettierignore
 .forceignore
 README.md
+force-app/main/default/lwc
+# Test class
+force-app/main/default/classes/MaintenanceRequestHelperTest.cls
+force-app/main/default/classes/MaintenanceRequestHelperTest.cls-meta.xml
